@@ -113,7 +113,7 @@ p { color: var(--ink-soft); }
   padding: 0 2rem;
 }
 
-section { padding: 0rem 0; }
+section { padding: 2rem 0; }
 
 /* ============================================
    HEADER
